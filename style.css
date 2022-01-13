@@ -1,0 +1,113 @@
+body {
+    background-color: #12154c;
+    padding: 5px;
+    padding-bottom: 10px;
+}
+
+#home_appstart {
+    color: white;
+    font-family: Gochi Hand;
+    font-size: 20px;
+    letter-spacing: 2px;
+    float: right;
+    margin-top:-33px;
+}
+
+#div_appstart {
+    background-color: #ffffff;
+    width: 1015;
+    height: 540px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#div_left {
+    text-align: left;
+}
+
+#img_home_page {
+    float: right; 
+    margin-top:-45px;
+}
+
+#heading_appstart{
+    color: white;
+    font-family: Gochi Hand;
+    font-size: 20px;
+}
+
+#input{
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    font-family: Gochi Hand;
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#div_appstart_recents{
+    margin-top: 2px;
+}
+
+.button_recents{
+    color: white;
+    background-color: #f6530f;
+    font-family: Gochi Hand;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+#div_contain_item{
+    background-color: white;
+    height: 1000px;
+    width: 100%;
+    padding: 5px;
+}
+
+#center_appstart{
+    margin-top: 5px;
+}
+
+#div_left_item{
+    background-color: rgb(129, 129, 129);
+    width: 200px;
+    height: 990px;
+    overflow: auto;
+    padding: 5px;
+    margin-top: -995px;
+    margin-left: 5px;
+}
+
+#p_1{
+    font-size: 35px;
+    margin-left: 250px;
+    font-family: Verdana;
+    text-decoration: underline;
+}
+
+#p_3{
+    font-size: 25px;
+    margin-left: 250px;
+    font-family: Verdana;
+}
+
+#p_9{
+    font-size: 25px;
+    margin-left: 250px;
+    font-family: Verdana;
+}
+
+#label_10{
+    font-size: 15px;
+    font-family: Verdana;
+    margin-left: 250px;
+}
+
+.p_app_start{
+    font-size: 16px;
+    margin-left: 250px;
+    font-family:  Verdana;
+    margin-top: 15px;
+    color: black;
+}
